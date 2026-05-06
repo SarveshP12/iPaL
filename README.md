@@ -160,3 +160,6 @@ These PDF documents are the source of truth for the project. If you notice any d
 **Last Updated**: February 2026  
 **Project**: ICICI Bank iPaL - RAG Chatbot  
 **Status**: Active Development
+
+
+https://202ff5ce-063d-4c6f-b160-467a643a3abc.sa-east-1-0.aws.cloud.qdrant.io
